@@ -12,102 +12,124 @@ class Scene1 extends Phaser.Scene {
    }
 
   create() {
+
+    // Shreve Sport Mudders
     var shreveSport1 = [
     	"* Shreve",
     	"    Sport"
 
     	];
+
+    // Uncertain Secret 6
     var uncertain2 = [
     	"    *",
     	"Uncertain"
     	];
 
+    // Gin City Distillers
     var ginCity3 = [
     	"  *",
     	"Gin City"
     	];
 
+    // Army Rangers
     var armyCorp4 = [
     	"    *",
     	"Army Corp",
     	"of Engineers"
     	];
 
+    // Garland City Ascendants
     var garlandCity5 = [
     	"   *",
     	"Garland",
     	"City"
     	];
 
+    // Trees Hoppers
     var trees6 = [
     	"Trees *"
     	];
 
+    // Oil City 6
     var oilCity7 = [
     	"Oil City",
     	"   *"
     	];
 
+    // Fall Out Waves
     var fallOut8 = [
     	"*  ",
     	"Fall Out"
     	];
 
+    // Pleiades 7
     var pleiades9 = [
     	"*",
     	"Pleiades"
     	];
 
+    // Lake Charles Shooters
     var lakeCharles10 = [
     	"   *",
     	" Lake",
     	"Charles"
     	];
 
+    // Princess Town Royals
     var princeTown11 = [
     	"*",
     	"Prince Town"
     	];
 
+    // Plain Dealing Lakers
     var plainDealing12 = [
     	"   *",
     	" Plain",
     	"Dealing"
     	];
 
+    // Hoss Town Toppers
     var hossTown13 = [
     	"Hoss Town",
     	"     *"
     	];
 
+    // Sulphur Steelers
     var sulphur14 = [
     	"Sulphur",
     	"    *"
     	];
 
+    // Bridge City Reds
     var bridgeCity15 = [
     	"* Bridge City"
     	];
 
+    // Wild Cow Lake Superstars
     var wildCowlake16 = [
     	"* Wild Cow Lake"
 
     	];
 
+    // Texarkana Twisters
     var texarkana17 = [
     	"Texarkana *"
     	];
 
+    // Chalk Hill Toppers
     var chalkHill18 = [
     	"* Chalk",
     	"   Hill"
     	];
 
+    // Pollux Town Angels
     var pollux19 = [
     	"*",
     	"Pollux"
     	];
 
+    // Castor Wolves
     var castor20 = [
     	"Castor",
     	"     *"
