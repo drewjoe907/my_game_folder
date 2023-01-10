@@ -89,7 +89,7 @@ class Scene1 extends Phaser.Scene {
     	"Dealing"
     	];
 
-    // Hoss Town Toppers
+    // Hoss Town Hoopers
     var hossTown13 = [
     	"Hoss Town",
     	"     *"
